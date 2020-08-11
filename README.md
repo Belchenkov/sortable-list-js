@@ -2,6 +2,8 @@
 
 > Display a scrambled list that can be sorted with drag and drop
 
+### [Demo](http://sortable-list-ab.surge.sh)
+
 ### Get started
 
 ```shell script
